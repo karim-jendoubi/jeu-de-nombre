@@ -13,4 +13,4 @@ Le **Jeu du Nombre Mystère** est un programme simple où l'ordinateur choisit u
 ### ▶️ Exécuter le jeu
 1. Clonez le dépôt GitHub :
    ```bash
-   git clone https://github.com/votre-utilisateur/nom-du-repo.git
+   git clone https://github.com/karim-jendoubi/jeu-de-nombre.git
